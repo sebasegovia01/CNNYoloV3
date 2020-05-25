@@ -44,5 +44,3 @@ to the weights folder.
 4. For the video/cam:
 
    python video.py
-
-Good luck
