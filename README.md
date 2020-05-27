@@ -1,5 +1,5 @@
-# CNNYoloV3
-CNN WHW for analytical traffic
+# CNNYoloV3 WHW
+CNN for analytical traffic
 
 Requirements:
 - TensorFLow 2.0
@@ -44,5 +44,3 @@ to the weights folder.
 4. For the video/cam:
 
    python video.py
-
-Good luck
