@@ -60,7 +60,7 @@ def main():
     # 0 means input from cam 0.
     # For video, just change the 0 to video path
     #cap = cv2.VideoCapture(0)
-    cap = cv2.VideoCapture('videos/test_video2.mp4')
+    cap = cv2.VideoCapture('data/videos/test_video2.mp4')
     frame_size = (cap.get(cv2.CAP_PROP_FRAME_WIDTH),
                   cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
